@@ -1,2 +1,2 @@
-# BestDiscordTokenGenerator
-TokenGenForAccounts
+# TwitchGenBOT
+TwitchGenBOT
