@@ -1,0 +1,2 @@
+# BestDiscordTokenGenerator
+TokenGenForAccounts
